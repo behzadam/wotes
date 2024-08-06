@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Notes
 
+[Github Repo](https://github.com/behzadam/sample-websocket) (>‿◠)
+
 ## Protocol Switching
 
 1. Initiation:
@@ -44,3 +46,5 @@ WebSocket is widely used in applications that require real-time updates, such as
 - IoT (Internet of Things) applications
 
 In summary, browser protocol switching in WebSocket connectivity is a fundamental mechanism that enables efficient and real-time communication between clients and servers.
+
+Checkout the [Github Repo](https://github.com/behzadam/sample-websocket) to see a simple client and server implementation.
