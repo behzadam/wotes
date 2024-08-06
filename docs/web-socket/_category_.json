@@ -1,8 +1,0 @@
-{
-  "label": "WebSocket",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "How WebSocket works and how to use it in your project."
-  }
-}

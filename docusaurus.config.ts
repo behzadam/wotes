@@ -1,12 +1,14 @@
 import type * as Preset from "@docusaurus/preset-classic";
 import type { Config } from "@docusaurus/types";
 import { themes as prismThemes } from "prism-react-renderer";
+import tailwindPlugin from "./plugins/tailwind-plugin.cjs";
 
 const config: Config = {
   title: "Wotes",
   tagline:
     "Website for advanced web development concepts specifically for Front-End developers",
   favicon: "img/favicon.ico",
+  plugins: [tailwindPlugin],
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -52,11 +54,6 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Wotes",
-      logo: {
-        alt: "Wotes",
-        src: "img/logo.svg",
-      },
       items: [
         {
           type: "docSidebar",
@@ -72,7 +69,6 @@ const config: Config = {
       ],
     },
     footer: {
-      style: "dark",
       copyright: `Copyright © ${new Date().getFullYear()} Behzad Ali Mohammad Zad. Built with Docusaurus.`,
     },
     prism: {

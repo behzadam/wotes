@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Notes
+# WebSocket
+
+Real-Time Communication Over a Single Connection.
 
 [Github Repo](https://github.com/behzadam/sample-websocket) (>‿◠)
 
