@@ -1,8 +1,6 @@
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <main className="grid w-full min-h-screen place-content-center">
       <header className="text-center">
