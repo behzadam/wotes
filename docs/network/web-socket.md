@@ -4,13 +4,15 @@ sidebar_position: 1
 
 # WebSocket
 
-Real-Time Communication Over a Single Connection.
+## What is WebSocket?
+
+WebSocket is a communication protocol that enables full-duplex communication between a client and a server over a single, long-lived connection. It provides a way for web applications to establish a persistent connection and exchange data in real-time.
 
 ![WebSocket Diagram](./web-socket-diagram.svg "WebSocket Diagram")
 
 [Github Repo](https://github.com/behzadam/sample-websocket) (>‿◠)
 
-## Protocol Switching
+## How Protocol Switching Works?
 
 1. Initiation:
 
