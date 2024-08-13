@@ -8,7 +8,7 @@ export default function Home(): JSX.Element {
       <header className="text-center">
         <h1 className="font-jakarta">WOTES</h1>
         <h2 className="text-lg font-mono font-light dark:text-neutral-400">
-          Web development notes, clear explanations.
+          My personal notes on advanced web development concepts.
         </h2>
       </header>
       <Link
