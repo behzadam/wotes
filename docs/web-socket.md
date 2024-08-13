@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Real-Time Communication Over a Single Connection.
 
+![WebSocket Diagram](./web-socket-diagram.svg "WebSocket Diagram")
+
 [Github Repo](https://github.com/behzadam/sample-websocket) (>‿◠)
 
 ## Protocol Switching
