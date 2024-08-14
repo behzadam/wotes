@@ -10,8 +10,6 @@ WebSocket is a communication protocol that enables full-duplex communication bet
 
 ![WebSocket Diagram](./web-socket.gif "WebSocket Diagram")
 
-[Github Repo](https://github.com/behzadam/sample-websocket) (>‿◠)
-
 ## How Protocol Switching Works?
 
 Pro-tip: The browser uses TCP to initialize and then switches the protocol to WebSocket after receiving a response from the server, a process known as Protocol Switching.
@@ -56,3 +54,7 @@ WebSocket is widely used in applications that require real-time updates, such as
 In summary, browser protocol switching in WebSocket connectivity is a fundamental mechanism that enables efficient and real-time communication between clients and servers.
 
 Checkout the [Github Repo](https://github.com/behzadam/sample-websocket) to see a simple client and server implementation.
+
+## Sample Code
+
+[Github Repo](https://github.com/behzadam/sample-websocket) (>‿◠)
