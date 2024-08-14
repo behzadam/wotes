@@ -14,6 +14,8 @@ WebSocket is a communication protocol that enables full-duplex communication bet
 
 ## How Protocol Switching Works?
 
+Pro-tip: The browser uses TCP to initialize and then switches the protocol to WebSocket after receiving a response from the server, a process known as Protocol Switching.
+
 1. Initiation:
 
    - The client initiates the process by sending an HTTP GET request to the server.
