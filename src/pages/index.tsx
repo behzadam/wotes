@@ -11,7 +11,7 @@ export default function Home(): JSX.Element {
       </header>
       <Link
         className="text-center block p-4 rounded-md bg-cyan-600 text-white hover:bg-cyan-700 hover:no-underline hover:text-white transition-colors duration-200"
-        to="/docs/web-socket"
+        to="/docs/network/web-socket"
       >
         Getting Started!
       </Link>
