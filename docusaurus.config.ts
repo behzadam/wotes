@@ -5,8 +5,7 @@ import tailwindPlugin from "./plugins/tailwind-plugin.cjs";
 
 const config: Config = {
   title: "Wotes",
-  tagline:
-    "Website for advanced web development concepts specifically for Front-End developers",
+  tagline: "Illustrated Guide to Advanced Web Concepts.",
   favicon: "img/favicon.ico",
   plugins: [tailwindPlugin],
 
@@ -61,7 +60,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Advanced Web Notes",
+          label: "Illustrated Guide to Advanced Web Concepts",
         },
         {
           href: "https://github.com/behzadam/wotes",
