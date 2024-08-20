@@ -7,6 +7,9 @@ export default function Home(): JSX.Element {
         <h1 className="font-jakarta">WOTES</h1>
         <h2 className="text-lg font-mono font-light dark:text-neutral-400">
           My personal notes on advanced web development concepts.
+          <a href="https://github.com/behzadam/wotes" target="_blank">
+            GitHub
+          </a>
         </h2>
       </header>
       <Link
