@@ -61,7 +61,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Notes",
+          label: "Advanced Web Notes",
         },
         {
           href: "https://github.com/behzadam/wotes",
